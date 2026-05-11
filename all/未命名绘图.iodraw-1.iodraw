@@ -33,6 +33,9 @@
         <mxCell id="60e70716793133e9-9" value="特征构建" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="190" y="320" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AA61xTNw3QF57hOza3Cg-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="60e70716793133e9-10" target="AA61xTNw3QF57hOza3Cg-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="60e70716793133e9-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;返回可用航班列表&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="470" y="280" width="120" height="40" as="geometry" />
         </mxCell>
@@ -124,6 +127,9 @@
         </mxCell>
         <mxCell id="1d0Jrlc7ULUYfOdvCa4m-27" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;返回前端&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="1100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AA61xTNw3QF57hOza3Cg-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;用户选择航班号&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
