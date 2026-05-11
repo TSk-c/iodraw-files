@@ -134,6 +134,9 @@
         <mxCell id="AA61xTNw3QF57hOza3Cg-2" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;用户选择航班号&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="310" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="AA61xTNw3QF57hOza3Cg-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="260" y="680" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
